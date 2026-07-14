@@ -1,0 +1,6 @@
+{
+  "name": "Dra. Larissa Oliveira",
+  "description": "Landing page premium e interativa com quiz de qualificação para agendamento de consultas de odontologia e harmonização com a Dra. Larissa Oliveira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
